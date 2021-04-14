@@ -1,9 +1,9 @@
 {
   "name": "{{ name }}",
   "version": "1.0.0",
-  "description":"{{ description }}"
+  "description":"{{ description }}",
   "license": "MIT",
-  "author":"{{ author }}"
+  "author":"{{ author }}",
   "bin": {
     "itcast": "1.js"
   },
