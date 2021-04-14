@@ -1,0 +1,14 @@
+{
+  "name": "{{ name }}",
+  "version": "1.0.0",
+  "description":"{{ description }}"
+  "license": "MIT",
+  "author":"{{ author }}"
+  "bin": {
+    "itcast": "1.js"
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
